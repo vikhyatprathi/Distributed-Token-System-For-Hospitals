@@ -95,9 +95,9 @@ pip install flask qrcode[pil]
 ---
 
 3. Run the server
-bash
+```bash
 python coordinator.py
-
+```
 Open in browser:
 http://127.0.0.1:5000
 
@@ -132,6 +132,3 @@ Key Concepts Demonstrated
 * Client-Server Architecture
 * Multi-Queue Management
 * QR-based Identification
-
-
-Just tell 👍
