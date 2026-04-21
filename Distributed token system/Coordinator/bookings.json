@@ -1,0 +1,12 @@
+{
+  "Orthopedic": [],
+  "Pediatric": [
+    {
+      "name": "Vikhyat",
+      "token": 1,
+      "lamport_time": 1
+    }
+  ],
+  "ENT": [],
+  "Dermatologist": []
+}
